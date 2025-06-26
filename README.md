@@ -4,7 +4,7 @@ This project was developed for the **Microsoft Global Intern Hackathon 2025**, f
 
 ![Workflow](./data/Workflow.png)
 
-please check out the [slides](./data/Sign2World.pdf) for more details.
+please check out the [slides](./data/Sign2WorldSlides.pptx) for more details.
 
 ## 🌍 Project Overview
 
